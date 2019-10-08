@@ -36,12 +36,14 @@ Training data fields:
 - TimeStamp				- Day in which the access happened
 - User					- User accessing the resource
 - Resource				- resource name
-- Categorical features			- <not used, could be 0)
+- Categorical features			- (not used, could be 0)
 - Count					- Total number of access on that day		
 
 Testing data fields:
 - TimeStamp				- Time of access
 - User					- User accessing the resource
 - Resource				- resource name
-- Categorical features			- <not used, could be 0)
-- Count					- <not needed>
+- Categorical features			- (not used, could be 0)
+- Count					- (not needed)
+	
+
