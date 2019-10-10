@@ -19,7 +19,7 @@ It is run from Azure Databricks
 - Version 5.2 (includes Apache Spark 2.4.0, Scala 2.11)
 
 Other libraries:
-- scikit-surprise
+- scikit-surprise==1.0.6
 - numpy==1.15.0
 - pyarrow==0.12.0
 - azure.storage.blob
