@@ -23,7 +23,7 @@ Other libraries:
 - scikit-surprise==1.0.6 (from PyPi)
 - numpy==1.15.0 (from PyPi)
 - pyarrow==0.12.0 (from PyPi)
-- plotly (from PyPi)
+- plotly (from PyPi, for Sankey diagram)
 
 Notes:
 - Credentials for Azure Storage and Log Analytics are kept in KeyVault
